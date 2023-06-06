@@ -5,6 +5,7 @@
 - http: gin
 - orm: gorm
 - sql: mysql
+- OSS: aliyun
 
 
 ## frontend
@@ -12,4 +13,3 @@
 
 ## deploy
 - docker
-- OSS

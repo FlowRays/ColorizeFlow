@@ -1,0 +1,12 @@
+database:
+  host: localhost
+  port: 3306
+  username: root
+  password: your_password
+  dbname: your_dbname
+hs_secret_key: your_secret_key
+oss:
+  endpoint: your_oss_config
+  access_key_id: your_oss_config
+  access_key_secret: your_oss_config
+  bucket_name: your_oss_config
